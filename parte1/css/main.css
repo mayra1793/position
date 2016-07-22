@@ -1,0 +1,16 @@
+/* Pon tu código css aqui */
+.rojo{
+	width: 200px;
+	height: 200px;
+	background: #ED2251;
+}
+.azul{
+	width: 200px;
+	height: 200px;
+	background: #3A81BA;
+}
+.verde{
+	width: 200px;
+	height: 200px;
+	background: #8BAB42;
+}
